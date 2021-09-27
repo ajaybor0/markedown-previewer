@@ -1,0 +1,19 @@
+body {
+	background-color: #f5f5f7 !important;
+	color: #545454 !important;
+}
+
+.preview {
+	background-color: #fafafa;
+	height: 450px;
+	overflow: scroll;
+}
+
+.preview img {
+	max-width: 100%;
+}
+
+.container {
+	height: 100vh;
+	overflow: hidden;
+}
