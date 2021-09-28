@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center"></h1>
+<h1 align="center">Markedown Previewer</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.
